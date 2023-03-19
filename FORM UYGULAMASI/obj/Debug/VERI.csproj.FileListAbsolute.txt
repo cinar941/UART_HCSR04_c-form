@@ -1,0 +1,30 @@
+C:\Users\Mehmet\Desktop\VERI\bin\Debug\VERI.exe.config
+C:\Users\Mehmet\Desktop\VERI\bin\Debug\VERI.exe
+C:\Users\Mehmet\Desktop\VERI\bin\Debug\VERI.pdb
+C:\Users\Mehmet\Desktop\VERI\obj\Debug\VERI.csprojAssemblyReference.cache
+C:\Users\Mehmet\Desktop\VERI\obj\Debug\VERI.Form1.resources
+C:\Users\Mehmet\Desktop\VERI\obj\Debug\VERI.Properties.Resources.resources
+C:\Users\Mehmet\Desktop\VERI\obj\Debug\VERI.csproj.GenerateResource.cache
+C:\Users\Mehmet\Desktop\VERI\obj\Debug\VERI.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\VERI\obj\Debug\VERI.exe
+C:\Users\Mehmet\Desktop\VERI\obj\Debug\VERI.pdb
+C:\Users\Mehmet\Desktop\VERI - Kopya\bin\Debug\VERI.exe.config
+C:\Users\Mehmet\Desktop\VERI - Kopya\bin\Debug\VERI.exe
+C:\Users\Mehmet\Desktop\VERI - Kopya\bin\Debug\VERI.pdb
+C:\Users\Mehmet\Desktop\VERI - Kopya\obj\Debug\VERI.csprojAssemblyReference.cache
+C:\Users\Mehmet\Desktop\VERI - Kopya\obj\Debug\VERI.Form1.resources
+C:\Users\Mehmet\Desktop\VERI - Kopya\obj\Debug\VERI.Properties.Resources.resources
+C:\Users\Mehmet\Desktop\VERI - Kopya\obj\Debug\VERI.csproj.GenerateResource.cache
+C:\Users\Mehmet\Desktop\VERI - Kopya\obj\Debug\VERI.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\VERI - Kopya\obj\Debug\VERI.exe
+C:\Users\Mehmet\Desktop\VERI - Kopya\obj\Debug\VERI.pdb
+C:\Users\Mehmet\Desktop\VERİ İLETİŞİMİ ÖDEV\uygulaması\bin\Debug\VERI.exe.config
+C:\Users\Mehmet\Desktop\VERİ İLETİŞİMİ ÖDEV\uygulaması\bin\Debug\VERI.exe
+C:\Users\Mehmet\Desktop\VERİ İLETİŞİMİ ÖDEV\uygulaması\bin\Debug\VERI.pdb
+C:\Users\Mehmet\Desktop\VERİ İLETİŞİMİ ÖDEV\uygulaması\obj\Debug\VERI.csprojAssemblyReference.cache
+C:\Users\Mehmet\Desktop\VERİ İLETİŞİMİ ÖDEV\uygulaması\obj\Debug\VERI.Form1.resources
+C:\Users\Mehmet\Desktop\VERİ İLETİŞİMİ ÖDEV\uygulaması\obj\Debug\VERI.Properties.Resources.resources
+C:\Users\Mehmet\Desktop\VERİ İLETİŞİMİ ÖDEV\uygulaması\obj\Debug\VERI.csproj.GenerateResource.cache
+C:\Users\Mehmet\Desktop\VERİ İLETİŞİMİ ÖDEV\uygulaması\obj\Debug\VERI.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\VERİ İLETİŞİMİ ÖDEV\uygulaması\obj\Debug\VERI.exe
+C:\Users\Mehmet\Desktop\VERİ İLETİŞİMİ ÖDEV\uygulaması\obj\Debug\VERI.pdb
